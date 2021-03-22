@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <Folder Include="DataTransferObjects\" />
-    <Folder Include="ExtensionMethods\" />
+    <Folder Include="Converters\" />
     <Folder Include="IServices\" />
     <Folder Include="Models\" />
   </ItemGroup>
